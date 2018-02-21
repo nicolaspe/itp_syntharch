@@ -1,4 +1,5 @@
 # Peaceful waiting
+For this project assignment, we have to create a simulation of a specific experience. My simulation proposal is a meditative waiting while attempting to feed a rabbit on a clear in the woods.
 
 ![Drawing](02_drawing.jpg)
 <figure><figcaption>Drawing of the scene</figcaption></figure>
@@ -18,7 +19,7 @@
 ## Proposal
 I want to create a meditative waiting simulator. The goal is to give a carrot to a rabbit (or another animal) ultimately to pet it. The animal doesn't come near unless you are offering the food and staying still. Once it is close and eats the food, you can pet it, triggering a haptic response on the controller as a reward.
 
-The goal is to make the waiting an integral part of the experience. Waiting for a train or in a queue makes people feel anxious and they try to remove themselves from that experience as much as possible. In this case, the waiting is still necessary to achieve the goal, but a certain degree of the inaction -staying still- is mandatory to achieve a result. Also, this inaction itself is pleasurable, inducing a meditative(like) state. 
+The goal is to make the waiting an integral part of the experience. Waiting for a train or in a queue makes people feel anxious and they try to remove themselves from that experience as much as possible. In this case, the waiting is still necessary to achieve the goal, but a certain degree of the inaction -staying still- is mandatory to achieve a result. Also, this inaction itself is pleasurable, inducing a meditative(like) state.
 
 The environment would be a small clear in the woods. Bushes, shrubs and long grass and flowers would "block" the user's possibility to teleport out of the zone, but allows them to walk around.
 
